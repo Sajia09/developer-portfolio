@@ -33,7 +33,7 @@ h1{
     background-repeat: no-repeat;
 }
 .dream{
-    background-image: url(/MyPics/dream-banner.png);
+    background-image: url(MyPics/dream-banner.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -50,7 +50,7 @@ h1{
     margin-bottom: 10%;
 }
 .experience{
-    background-image: url(/MyPics/experience-background.png);
+    background-image: url(MyPics/experience-background.png);
     background-repeat: no-repeat;
     background-position: left;
     margin-top: 50px;
